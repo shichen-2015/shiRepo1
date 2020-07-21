@@ -15,7 +15,7 @@ import org.junit.Test;
  */
 public class Test1 {
 	
-	
+	//大厦是梵蒂冈和时代感和
 	public Test1(){
 		System.out.println("********************************运行了Test1");
 		List<String> list1 = new ArrayList<String>();
