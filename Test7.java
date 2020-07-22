@@ -1,4 +1,6 @@
-﻿
+﻿/**
+* 新的注释
+*/
 public class Test7 {
 
 	/**
